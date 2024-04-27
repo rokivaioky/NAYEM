@@ -6,16 +6,16 @@
   "language": "en",
   "notification": true,
   "approval": false,
-  "BOTNAME": "NAYAN-BOT",
+  "BOTNAME": "NAYEM-BOT",
   "PREFIX": "/",
   "OPERATOR": [
-    "100069926588234"
+    "100067342487862"
   ],
   "ADMINBOT": [
-    "100069926588234",
-    "100089974857944"
+    "100067342487862",
+    "100086604581735"
   ],
-  "OWNER": ["100000959749712"], 
+  "OWNER": ["100067342487862"], 
   "APPROVED": [],
   "disabledcmds": [
   ],
